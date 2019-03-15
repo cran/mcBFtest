@@ -1,0 +1,13 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("utils", "data")
+importFrom("MASS","rlm")
+importFrom("MASS","psi.huber")
+importFrom("MASS","psi.bisquare")
+importFrom("stats", "lm", "median")
+importFrom("graphics", "axis", "legend")
+importFrom("stats", "mad")
+importFrom("stats", "rchisq", "rnorm", "t.test", "var")
+
+
+
+
